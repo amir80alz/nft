@@ -1,9 +1,5 @@
 # 🚀 NFT Marketplace
 
-<p align="center">
-  <img src="img/preview.png" alt="NFT Marketplace Preview" width="100%">
-</p>
-
 <h3 align="center">A Modern NFT Website Project</h3>
 
 <p align="center">
@@ -51,10 +47,6 @@ git clone https://github.com/amir80alz/nft.git
 2. Open the project folder.
 
 3. Open the main HTML file in your browser.
-
-## 📸 Screenshots
-
-Add screenshots of your project here.
 
 ## 👨‍💻 Developer
 
